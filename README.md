@@ -51,4 +51,4 @@ Methods:
 	  DisableVectorClassLogMessages () -> disable console logging
 
  	Vector printing function 
-   operator<< (std::ostream& stream, const VectorClass& vector); -> Enables vector coordinate printing functionality with std::cout and '<<'
+   	  operator<< (std::ostream& stream, const VectorClass& vector); -> Enables vector coordinate printing functionality with std::cout and '<<'
