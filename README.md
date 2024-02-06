@@ -1,10 +1,12 @@
 A simple 3D Vector class that can be modified further for specific use
 
 Constructors: 
+
 	VectorClass () -> Creates a zero vector.
 	VectorClass (double xValue, double yValue, double zValue) -> Creates a vector with specific x, y and z coordinates.
  
 Methods:
+
   Getters (returns a specific component of the vector): 
   
     double getX ()
@@ -14,8 +16,8 @@ Methods:
   Setters (adjust a specific component of the vector):
   
     void setX (double xValue)
-	  void setY (double yValue)
-	  void setZ (double zValue)
+    void setY (double yValue)
+    void setZ (double zValue)
 
   Operations:
   
